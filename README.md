@@ -116,3 +116,5 @@ AHCI  开启
 | ![1](https://github.com/user-attachments/assets/06d87fea-0d11-4bf4-b9ed-034dc7f53d06) |
 |                                                                                       |
 | ![1](https://github.com/user-attachments/assets/b99e75b4-69d3-450a-aae4-1a610760372d) |                                              |                                                                                       |
+
+若有其他问题请加Q群： 738882434
